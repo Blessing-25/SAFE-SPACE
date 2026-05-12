@@ -1,0 +1,5 @@
+{
+    "name": "SafeSpace",
+    "description": "An anonymous wellness platform for students to log moods, share feelings in safe rooms, and access crisis support.",
+    "requestFramePermissions": []
+}
